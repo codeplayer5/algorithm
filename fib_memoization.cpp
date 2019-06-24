@@ -1,6 +1,3 @@
-/* C++ program for Memoized version 
-for nth Fibonacci number */
-//#include <bits/stdc++.h> 
 #include <iostream>
 
 #define NIL -1 
